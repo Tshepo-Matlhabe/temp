@@ -1,0 +1,11 @@
+C:\Users\bamm\Downloads\vb\ConcatinateApp\bin\Debug\ConcatinateApp.exe.config
+C:\Users\bamm\Downloads\vb\ConcatinateApp\bin\Debug\ConcatinateApp.exe
+C:\Users\bamm\Downloads\vb\ConcatinateApp\bin\Debug\ConcatinateApp.pdb
+C:\Users\bamm\Downloads\vb\ConcatinateApp\obj\Debug\ConcatinateApp.csproj.AssemblyReference.cache
+C:\Users\bamm\Downloads\vb\ConcatinateApp\obj\Debug\ConcatinateApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\bamm\Downloads\vb\ConcatinateApp\obj\Debug\ConcatinateApp.Form1.resources
+C:\Users\bamm\Downloads\vb\ConcatinateApp\obj\Debug\ConcatinateApp.Properties.Resources.resources
+C:\Users\bamm\Downloads\vb\ConcatinateApp\obj\Debug\ConcatinateApp.csproj.GenerateResource.cache
+C:\Users\bamm\Downloads\vb\ConcatinateApp\obj\Debug\ConcatinateApp.csproj.CoreCompileInputs.cache
+C:\Users\bamm\Downloads\vb\ConcatinateApp\obj\Debug\ConcatinateApp.exe
+C:\Users\bamm\Downloads\vb\ConcatinateApp\obj\Debug\ConcatinateApp.pdb
